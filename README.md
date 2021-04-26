@@ -1,0 +1,2 @@
+Make a call to /is-perfect/{number} in order to get if number is valid. Instead of {number} use actual number, e.g. 20, 60, etc.
+Make a call to /is-perfect/{start}/{end} in order to get perfect numbers in this range. 
